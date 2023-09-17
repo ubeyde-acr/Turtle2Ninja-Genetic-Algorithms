@@ -1,5 +1,5 @@
-# YouTube Video: Introduction to Genetic Algorithms - Maze Solver
-[Insert your YouTube video link here]
+# YouTube Video: From Turtle to Ninja: Genetic Algorithms Explained - Visual Guide - Build code that evolves & mutates!
+[https://youtu.be/U4YKQ9L6Tlc]
 
 ## Genetic Algorithm Maze Solver
 
@@ -44,8 +44,3 @@ To use this code, you can follow these steps:
 
 4. You can create an animation from the saved frames to visualize the turtle's journey through the maze.
 
-### Example Video
-
-[Insert a link to a video showcasing the maze-solving process]
-
-Feel free to use this code as a starting point for your YouTube video and explain the concepts of genetic algorithms, maze solving, and the code's functionality to your audience.
